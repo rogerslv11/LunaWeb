@@ -97,10 +97,10 @@ export default function FAQSection() {
   return (
     <section className=" py-16">
       <div className="max-w-4xl mx-auto px-6 grid gap-6">
-        <h2 className="text-center text-4xl font-bold text-white ">
+        <h2 className="text-center text-3xl lg:text-4xl font-bold text-white ">
           Perguntas Frequentes
         </h2>
-        <p className=" text-center  text-white text-2xl font-semibold">
+        <p className=" text-center  text-white text-lg lg:text-2xl font-semibold">
           Perguntas frequentes para você entender como trabalhamos.
         </p>
         <div className="space-y-4">

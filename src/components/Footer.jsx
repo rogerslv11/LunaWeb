@@ -2,7 +2,7 @@ import { Instagram, Linkedin, Twitter } from "lucide-react";
 
 export default function Footer() {
   return (
-    <footer className="bg-black text-gray-300 py-12">
+    <footer className="bg-black text-gray-300 py-12 border-t border-white">
       <div className="max-w-6xl mx-auto px-6 flex flex-col lg:flex-row justify-between gap-8">
         
         {/* Logo / Nome */}

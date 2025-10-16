@@ -82,11 +82,11 @@ export default function ServicesSection() {
   return (
     <section className=" py-16">
       <div className="mx-auto max-w-6xl px-6 grid gap-6">
-        <h2 className="text-center text-4xl font-bold text-white ">
+        <h2 className="text-center text-3xl lg:text-4xl font-bold text-white ">
           Nossos Serviços
         </h2>
 
-        <p className=" text-center text-white text-2xl font-semibold ">
+        <p className=" text-center text-white text-lg lg:text-2xl font-semibold ">
           Soluções digitais sob medida para acelerar o crescimento do seu negócio."
         </p>
 
